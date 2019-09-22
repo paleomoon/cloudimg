@@ -1,3 +1,3 @@
 # cloudimg
 
-图片链接： https://raw.githubusercontent.com/paleomoon/cloudimg/master/img/xxx.jpg
+图片链接： https://raw.githubusercontent.com/paleomoon/cloudimg/master/path/filename
